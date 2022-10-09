@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khaliDevx - Khali Ahmed
+- 👋 Hi, I’m @khaliDevx - Khalid Ahmed
 - I'm from Yemen - Hadramout - Mukalla city
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Ruby ( ruby on rails ) and React.JS
