@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @khaliDevx - Khalid Ahmed
 - I'm from Yemen - Hadramout - Mukalla city
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Ruby ( ruby on rails ) and React.JS
+- 🌱 I’m currently learning Ruby ( ruby on rails ) and React.JS, VueJS
+- 🌱 Also learning Python with Django
 - 💞️ I’m looking to collaborate on developing great open source projects
 - 📫 How to reach me 
 - Gmail : khalid.a.dev@gmail.com
