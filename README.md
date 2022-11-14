@@ -8,6 +8,7 @@
 - Gmail : khalid.a.dev@gmail.com
 - Phone numbers : +967714711617 , +967739752747
 - Whatsapp number : +967714711617
+- My Accounts : https://linktr.ee/khalid_pics
 
 <!---
 khaliDevx/khaliDevx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
