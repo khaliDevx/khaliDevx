@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khaliDevx - Khalid Ahmed
 - I'm from Yemen - Hadramout - Mukalla city
-- 👀 I’m interested in Web development
-- 🌱 I’m currently training and developing with odoo erb framework
+- :technologist: I’m interested in Web development
+- 🌱 I’m currently working at Sonod for IT solutions - https://sonod.tech with odoo erb framework
 - 💞️ I’m looking to collaborate on developing great open source projects
 - 📫 How to reach me 
 - Gmail : khalid.a.dev@gmail.com
