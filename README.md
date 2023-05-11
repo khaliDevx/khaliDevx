@@ -3,7 +3,6 @@
 - 🌱 I’m interested in Web development
 - 🧑‍💻 I’m currently working at Sonod for IT solutions - https://sonod.tech 
 - 👨‍💻 Working with odoo erb framework
-- 💞️ I’m looking to collaborate on developing great open source projects
 - 📫 How to reach me 
 - 📧 Gmail : khalid.a.dev@gmail.com
 - 📲 Phone numbers : +967714711617 , +967739752747
