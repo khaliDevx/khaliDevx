@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khaliDevx - Khalid Ahmed
+- 👋 Hi, I’m Khalid Ahmed as @khaliDevx
 - 🏠 I'm from Yemen - Hadramout - Mukalla city  🇾🇪
 - 🌱 I’m interested in Web development
 - 🧑‍💻 I’m currently working at Sonod for IT solutions - https://sonod.tech 
